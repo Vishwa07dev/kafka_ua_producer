@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/message-producer/")
+@RequestMapping("/message_producer/")
 public class MessageController {
 
   @Autowired
